@@ -1,0 +1,12 @@
+.contactHead h1{
+  font-size: 48px;
+  font-weight: 800;
+}
+
+.contactHead p{
+  font-size: 16px;
+  font-weight: 500;
+  color: gray;
+  padding-top: 1rem;
+  padding-right: 15rem;
+}

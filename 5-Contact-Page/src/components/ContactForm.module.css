@@ -1,0 +1,60 @@
+.container{
+  padding-top: 3rem;
+}
+
+.topBtn{
+  display: flex;
+  width: 472px;
+  gap: 2rem;
+}
+
+.formControl{
+  display: flex;
+  flex-direction: column;
+  width: 440px;
+  padding-top: 1rem;
+  position: relative;
+  margin-top: 1rem;
+}
+
+.formControl input{
+  height: 40px;
+}
+
+.formControl label{
+  position: absolute;
+  top: 3px;
+  left: 15px;
+  background-color: white;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 550;
+}
+
+.formControl textarea{
+  resize: none;
+  padding: 10px;
+}
+
+.submitBtn{
+  background-color: black;
+  color: white;
+  width: 220px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+  position: absolute;
+  left: 16.8rem;
+}
+
+.container{
+  display: flex;
+  gap: 3rem;
+}
+
+.submitAns{
+  margin-top: 6rem;
+}
