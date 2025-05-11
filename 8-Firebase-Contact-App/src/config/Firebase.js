@@ -6,7 +6,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDUPj32O4O8umam-DtgAeRR8z07MAZXHWc",
+  apiKey: " ",//notepad
   authDomain: "vite-contact-317d9.firebaseapp.com",
   projectId: "vite-contact-317d9",
   storageBucket: "vite-contact-317d9.firebasestorage.app",
